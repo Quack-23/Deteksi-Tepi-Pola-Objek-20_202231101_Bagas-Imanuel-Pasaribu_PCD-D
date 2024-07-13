@@ -55,7 +55,7 @@ Untuk menjalankan kode deteksi tepi, Kita perlu menginstal pustaka Python beriku
 ![App Screenshot](Gambar/Foto_diri_1.jpg)
 
 ## Detail Gambar
-![App Screenshot](Gambar/Bukti.jpg)
+![App Screenshot](Gambar/bukti.jpg)
 
 ## Source Code
 ### Deteksi Tepi Pola Objek
